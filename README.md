@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://javimanobanda.github.io/404_not_found/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{github.com/JaviManobanda/404_not_found}">
+    <a href="https://github.com/JaviManobanda/404_not_found">
       Solution
     </a>
     <span> | </span>
@@ -40,7 +40,7 @@
 
 Page not found 404 code to give a better user experience by not finding information:
 
-- [You can see]()
+- [You can see](https://javimanobanda.github.io/404_not_found/)
 - I use the responsive design mobil first
 
 ### Built With
@@ -65,5 +65,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- GitHub [@your-username](https://{github.com/JaviManobanda})
-- Twitter [@your-twitter](https://{twitter.com/JaviManobanda})
+- GitHub [JaviManobanda](https://{github.com/JaviManobanda})
+- Twitter [JaviManobanda](https://{twitter.com/JaviManobanda})
