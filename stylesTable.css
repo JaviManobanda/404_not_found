@@ -1,0 +1,15 @@
+main{
+    display: flex;
+    flex-direction: column;
+}
+
+.error{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin: auto 0px;
+}
+
+.info-title{
+    font-size: 8rem;
+}
